@@ -11,4 +11,4 @@ word RGBVY!
 
 R
 G
-B
+
