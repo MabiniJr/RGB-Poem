@@ -1,10 +1,10 @@
-RGBVY Colors
+RGBVY Colors now with sentences!
 
-Red 
-Green
-Blue
-Violet 
-Yellow
+Red like apple
+Green like lettuce
+Blue like water
+Violet like eggplant
+Yellow like mango
 
 They are the colors in the
 word RGBVY!
